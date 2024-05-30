@@ -1,6 +1,7 @@
 <img src="dev">
 
 <h1 align="center">Hola 👋, soy Ariel</h1>
+
 - 🔭 Actualmente estoy trabajando en el proyecto "red-social" (https://github.com/ArielGnz/red-social)
 
 - 🌱 Introduciendome en  **nuevas tecnologias y metodologias**
