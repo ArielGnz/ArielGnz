@@ -1,4 +1,4 @@
-![](https://github.com/ArielGnz/ArielGnz/blob/main/dev.jpg)
+![](https://github.com/ArielGnz/ArielGnz/blob/main/img.jpg)
 
 <h1>Hola 👋, soy Ariel</h1>
 
