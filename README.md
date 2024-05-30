@@ -1,6 +1,6 @@
-<img src="dev">
+![](https://github.com/ArielGnz/ArielGnz/blob/main/dev.jpg)
 
-<h1 align="center">Hola 👋, soy Ariel</h1>
+<h1>Hola 👋, soy Ariel</h1>
 
 - 🔭 Actualmente estoy trabajando en el proyecto "red-social" (https://github.com/ArielGnz/red-social)
 
